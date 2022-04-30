@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeph16&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zeph16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
+
 <hr align="center" size="5" noshade>
 <h3 align="left">Languages and Tools:</h3>
 <div>
