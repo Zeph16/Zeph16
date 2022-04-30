@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 <hr align="center" size="5" noshade>
 <h2 align="left">Github Stats</h2>
 </br>
----
 
 ###
 
