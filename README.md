@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 <div align="left">
-  <img src="header.png"/>
+  <img src="profilename.png"/>
 </div>
 
 </br>
