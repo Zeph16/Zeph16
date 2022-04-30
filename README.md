@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 ---
 
-### Top Langs :
+###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeph16&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
