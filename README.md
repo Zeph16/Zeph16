@@ -4,17 +4,9 @@
 
 Here are some ideas to get you started:
 -->
-<div align="center">
-  <img src="banner.png"/>
+<div align="left">
+  <img src="header.png"/>
 </div>
-
----
-
-### Profile Count :
-
-![](https://komarev.com/ghpvc/?username=Zeph16&color=blueviolet&style=for-the-badge)
-
----
 
 </br>
 <hr align="center" size="5" noshade>
@@ -22,8 +14,9 @@ Here are some ideas to get you started:
 </br>
 ---
 
-### Github Stats :
+###
 
+![](https://komarev.com/ghpvc/?username=Zeph16&color=blueviolet&style=for-the-badge)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeph16&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zeph16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -45,6 +38,6 @@ Here are some ideas to get you started:
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeph16&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeph16&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
