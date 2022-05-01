@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="profile_name2.png"/>
+  <img src="profile_name.png"/>
 </div>
 
 </br>
