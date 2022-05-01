@@ -1,9 +1,8 @@
 <div align="left">
-  <img src="profile_name.png"/>
+  <img src="profile_name2.png"/>
 </div>
 
 </br>
-<hr align="center" noshade>
 <h1 align="left">Github Stats</h1>
 </br>
 
@@ -20,7 +19,6 @@
 [![](http://github-readme-streak-stats.herokuapp.com?user=Zeph16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<hr align="center" noshade>
 <h1 align="left" color="blue">Languages and Tools</h1>
 
 <div>
