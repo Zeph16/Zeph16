@@ -12,7 +12,7 @@
 <div align="center">
 
 
-![](https://komarev.com/ghpvc/?username=Zeph16&color=00008b&style=for-the-badge&label=VISITS)
+![](https://komarev.com/ghpvc/?username=Zeph16&color=00e0ff&style=for-the-badge&label=TIMES+VISITED)
 
 <!-- git stats and streak -->
 </div>
