@@ -2,15 +2,19 @@
   <img src="profile_name3.png"/>
 </div>
 
+<!-- To be added: social info, personal info, current status -->
+
 </br>
 <h1 align="left">Github Stats</h1>
 </br>
 
+<!-- Profile View Count -->
 <div align="center">
 
 
 ![](https://komarev.com/ghpvc/?username=Zeph16&color=blueviolet&style=for-the-badge)
 
+<!-- git stats and streak -->
 </div>
 
 ###
@@ -19,6 +23,7 @@
 [![](http://github-readme-streak-stats.herokuapp.com?user=Zeph16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
+<!-- langs list -->
 <h1 align="left" color="blue">Languages and Tools</h1>
 
 <div>
@@ -35,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="50" height="50"/>&nbsp;
 </div>
 
+<!-- langs stats -->
 ###
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeph16&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
