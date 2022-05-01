@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 </br>
 <hr align="center" size="5" noshade>
-<h2 align="left">Github Stats</h2>
+<h2 align="left" color="blue">    Github Stats</h2>
 </br>
 
 <div align="center">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <hr align="center" size="5" noshade>
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left" color="blue">Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C" width="40" height="40"/>&nbsp;
