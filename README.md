@@ -1,16 +1,10 @@
-
-<!--
-**Zeph16/Zeph16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <div align="left">
   <img src="profilename.png"/>
 </div>
 
 </br>
-<hr align="center" size="5" noshade>
-<h2 align="left" color="blue">    Github Stats</h2>
+<hr align="center" size="1" noshade>
+<h1 align="left">Github Stats</h1>
 </br>
 
 <div align="center">
@@ -22,12 +16,12 @@ Here are some ideas to get you started:
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeph16&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zeph16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Zeph16&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
+[![](http://github-readme-streak-stats.herokuapp.com?user=Zeph16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<hr align="center" size="5" noshade>
-<h2 align="left" color="blue">Languages and Tools</h2>
+<hr align="center" size="1" noshade>
+<h1 align="left" color="blue">Languages and Tools</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C" width="40" height="40"/>&nbsp;
@@ -43,5 +37,5 @@ Here are some ideas to get you started:
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeph16&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeph16&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
