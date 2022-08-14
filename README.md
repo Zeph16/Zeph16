@@ -5,8 +5,8 @@
 <!-- To be added: social info, personal info, current status -->
 
 </br>
-<h2 align="left">Github Stats</h2>
-</br>
+<!-- <h2 align="left">Github Stats</h2>
+</br> -->
 
 <!-- Profile View Count -->
 <div align="center">
