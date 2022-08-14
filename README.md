@@ -24,9 +24,10 @@
 
 
 <!-- langs list -->
+<!--
 <h1 align="left" color="blue">Languages and Tools</h1>
 
-<!-- 
+ 
 <div>
 </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
