@@ -26,6 +26,7 @@
 <!-- langs list -->
 <h1 align="left" color="blue">Languages and Tools</h1>
 
+<!-- 
 <div>
 </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -39,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="50" height="50"/>&nbsp;
 </div>
+-->
 
 <!-- langs stats -->
 ###
